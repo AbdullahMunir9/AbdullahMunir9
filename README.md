@@ -15,7 +15,7 @@ I'm a passionate **Full Stack Web Developer** and **React Native Mobile App Deve
 - 🌱 I'm currently learning **MERN Stack, DevOps, and Cloud Technologies**
 - 💼 All of my projects are available at [My Portfolio](https://abdullah-munir-portfolio.vercel.app)
 - 💬 Ask me about **ReactJS, NextJS, NodeJS, React Native, MongoDB**
-- 📫 How to reach me: **abdullahmunir.dev@gmail.com**
+- 📫 How to reach me: **abdullahmunir467.@gmail.com**
 - ⚡ Fun fact: **I think coding is like solving puzzles - addictive and rewarding!**
 
 <div align="center">
