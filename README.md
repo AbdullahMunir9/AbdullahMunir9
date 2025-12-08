@@ -1,7 +1,7 @@
 # Hi 👋, I'm Abdullah Munir
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;React+Native+Mobile+Developer;MERN+Stack+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Flutter+Mobile+App+Developer;MERN+Stack+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -15,7 +15,7 @@ I'm a passionate **Full Stack Web Developer** and **Flutter/Dart Mobile App Deve
 - 🌱 I'm currently learning **MERN Stack, DevOps, and Cloud Technologies**
 - 💼 All of my projects are available at [My Portfolio](https://abdullah-munir.vercel.app)
 - 💬 Ask me about **ReactJS, NextJS, NodeJS, Flutter, MongoDB**
-- 📫 How to reach me: **abdullahmunir467.@gmail.com**
+- 📫 How to reach me: **abdullahmunir467@gmail.com**
 - ⚡ Fun fact: **I think coding is like solving puzzles - addictive and rewarding!**
 
 <div align="center">
@@ -48,12 +48,18 @@ I'm a passionate **Full Stack Web Developer** and **Flutter/Dart Mobile App Deve
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![DaisyUI](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)
+![EJS](https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=white)
 
 ### Backend & Database
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 ### Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
@@ -64,7 +70,9 @@ I'm a passionate **Full Stack Web Developer** and **Flutter/Dart Mobile App Deve
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 </div>
 
@@ -72,36 +80,48 @@ I'm a passionate **Full Stack Web Developer** and **Flutter/Dart Mobile App Deve
 
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdullahMunir9&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdullahMunir9&theme=dark&show_icons=true&hide_border=false&count_private=true&include_all_commits=true)
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdullahMunir9&theme=dark&hide_border=false" alt="GitHub Streak" />
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=AbdullahMunir9&theme=dark&hide_border=false)
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahMunir9&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" />
-  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahMunir9&theme=dark&hide_border=false&layout=compact&langs_count=8)
+
 </div>
 
 ## 🏆 GitHub Trophies:
 
 <div align="center">
   
-  <img src="https://github-profile-trophy.vercel.app/?username=AbdullahMunir9&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
-  
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AbdullahMunir9&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=7)
+
 </div>
 
 ## 📈 Activity Graph:
 
 <div align="center">
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdullahMunir9&theme=react-dark&hide_border=true" alt="Activity Graph" />
-  
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbdullahMunir9&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&area_color=36BCF7&line=36BCF7&point=FFFFFF)
+
+</div>
+
+## 📌 Recent Projects
+
+<div align="center">
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [Project 1](link) | Brief description | React, Node, MongoDB |
+| [Project 2](link) | Brief description | Flutter, Firebase |
+| [Project 3](link) | Brief description | Next.js, Tailwind |
+
 </div>
 
 ## 💡 Random Dev Quote:
 
 <div align="center">
   
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" />
-  
+  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 </div>
 
 ---
