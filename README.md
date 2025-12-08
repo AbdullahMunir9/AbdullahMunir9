@@ -104,18 +104,6 @@ I'm a passionate **Full Stack Web Developer** and **Flutter/Dart Mobile App Deve
 
 </div>
 
-## 📌 Recent Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [Project 1](link) | Brief description | React, Node, MongoDB |
-| [Project 2](link) | Brief description | Flutter, Firebase |
-| [Project 3](link) | Brief description | Next.js, Tailwind |
-
-</div>
-
 ## 💡 Random Dev Quote:
 
 <div align="center">
