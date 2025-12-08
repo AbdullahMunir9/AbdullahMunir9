@@ -80,46 +80,36 @@ I'm a passionate **Full Stack Web Developer** and **Flutter/Dart Mobile App Deve
 
 <div align="center">
   
-  <!-- GitHub Stats Card -->
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdullahMunir9&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" width="500" />
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdullahMunir9&theme=dark&show_icons=true&hide_border=false&count_private=true&include_all_commits=true)
   
-  <br /><br />
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=AbdullahMunir9&theme=dark&hide_border=false)
   
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdullahMunir9&theme=dark&hide_border=true" alt="GitHub Streak" width="500" />
-  
-  <br /><br />
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahMunir9&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" width="500" />
-  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahMunir9&theme=dark&hide_border=false&layout=compact&langs_count=8)
+
 </div>
 
 ## 🏆 GitHub Trophies:
 
 <div align="center">
   
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=AbdullahMunir9&theme=radical&no-bg=true&no-frame=true&margin-w=20&margin-h=20&column=7" alt="GitHub Trophies" width="100%" />
-  
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AbdullahMunir9&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=7)
+
 </div>
 
 ## 📈 Activity Graph:
 
 <div align="center">
   
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdullahMunir9&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&area_color=36BCF7&line=36BCF7&point=FFFFFF" alt="Activity Graph" width="100%" />
-  
+  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbdullahMunir9&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&area_color=36BCF7&line=36BCF7&point=FFFFFF)
+
 </div>
 
 ## 💡 Random Dev Quote:
 
 <div align="center">
   
-  <!-- Random Dev Quote -->
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" width="100%" />
-  
+  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 </div>
 
 ---
