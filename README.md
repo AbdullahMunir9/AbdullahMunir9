@@ -80,11 +80,14 @@ I'm a passionate **Full Stack Web Developer** and **Flutter/Dart Mobile App Deve
 
 <div align="center">
   
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdullahMunir9&theme=dark&show_icons=true&hide_border=false&count_private=true&include_all_commits=true)
+  ### 🎯 Quick Stats
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdullahMunir9&count_private=true&show_icons=true&theme=default)
   
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=AbdullahMunir9&theme=dark&hide_border=false)
+  ### 🔥 Streak Stats
+  ![GitHub Streak](https://streak-stats.demolab.com?user=AbdullahMunir9&theme=default)
   
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahMunir9&theme=dark&hide_border=false&layout=compact&langs_count=8)
+  ### 💻 Top Languages
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahMunir9&layout=compact&theme=default)
 
 </div>
 
@@ -92,8 +95,8 @@ I'm a passionate **Full Stack Web Developer** and **Flutter/Dart Mobile App Deve
 
 <div align="center">
   
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AbdullahMunir9&theme=radical&no-frame=true&margin-w=15&margin-h=15&column=7)
-
+  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AbdullahMunir9&theme=flat)
+  
 </div>
 
 ## 📈 Activity Graph:
