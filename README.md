@@ -75,30 +75,32 @@ I'm a passionate **Full Stack Web Developer** and **Flutter/Dart Mobile App Deve
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 </div>
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sufyan2618&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=sufyan2618&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sufyan2618&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 ## 📊 GitHub Stats:
 
 <div align="center">
   
-  ### 🎯 Quick Stats
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdullahMunir9&count_private=true&show_icons=true&theme=default)
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdullahMunir9&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" width="500" />
   
-  ### 🔥 Streak Stats
-  ![GitHub Streak](https://streak-stats.demolab.com?user=AbdullahMunir9&theme=default)
+  <br /><br />
   
-  ### 💻 Top Languages
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahMunir9&layout=compact&theme=default)
-
+  <!-- GitHub Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdullahMunir9&theme=dark&hide_border=true" alt="GitHub Streak" width="500" />
+  
+  <br /><br />
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdullahMunir9&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="Top Languages" width="500" />
+  
 </div>
 
 ## 🏆 GitHub Trophies:
 
 <div align="center">
   
-  ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=AbdullahMunir9&theme=flat)
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=AbdullahMunir9&theme=radical&no-bg=true&no-frame=true&margin-w=20&margin-h=20&column=7" alt="GitHub Trophies" width="100%" />
   
 </div>
 
@@ -106,16 +108,18 @@ I'm a passionate **Full Stack Web Developer** and **Flutter/Dart Mobile App Deve
 
 <div align="center">
   
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbdullahMunir9&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&area_color=36BCF7&line=36BCF7&point=FFFFFF)
-
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbdullahMunir9&theme=react-dark&bg_color=0d1117&hide_border=true&area=true&area_color=36BCF7&line=36BCF7&point=FFFFFF" alt="Activity Graph" width="100%" />
+  
 </div>
 
 ## 💡 Random Dev Quote:
 
 <div align="center">
   
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+  <!-- Random Dev Quote -->
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" width="100%" />
+  
 </div>
 
 ---
