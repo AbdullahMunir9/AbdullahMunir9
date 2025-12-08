@@ -75,7 +75,10 @@ I'm a passionate **Full Stack Web Developer** and **Flutter/Dart Mobile App Deve
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 </div>
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sufyan2618&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sufyan2618&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sufyan2618&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ## 📊 GitHub Stats:
 
 <div align="center">
