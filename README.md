@@ -1,7 +1,7 @@
 # Hi 👋, I'm Abdullah Munir
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;Flutter+Mobile+App+Developer;MERN+Stack+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Flutter+Mobile+App+Developer;Unity+Game+Developer;MERN+Stack+Enthusiast;Always+Learning+New+Technologies" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -10,13 +10,13 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Full Stack Web Developer** and **Flutter/Dart Mobile App Developer** from Pakistan, dedicated to creating innovative digital solutions that make a difference.
+I'm a passionate **Full Stack Web Developer**, **Flutter/Dart Mobile App Developer**, and **Unity Game Developer** from Pakistan, dedicated to creating innovative digital experiences and solutions that make a difference.
 
-- 🌱 I'm currently learning **MERN Stack, DevOps, and Cloud Technologies**
+- 🌱 I'm currently learning **MERN Stack, Unity Game Development, DevOps, and Cloud Technologies**
 - 💼 All of my projects are available at [My Portfolio](https://abdullah-munir.vercel.app)
-- 💬 Ask me about **ReactJS, NextJS, NodeJS, Flutter, MongoDB**
+- 💬 Ask me about **ReactJS, NextJS, NodeJS, Flutter, MongoDB, Unity, and C#**
 - 📫 How to reach me: **abdullahmunir467@gmail.com**
-- ⚡ Fun fact: **I think coding is like solving puzzles - addictive and rewarding!**
+- ⚡ Fun fact: **I think coding is like solving puzzles—addictive and rewarding!**
 
 <div align="center">
   
@@ -64,6 +64,11 @@ I'm a passionate **Full Stack Web Developer** and **Flutter/Dart Mobile App Deve
 ### Mobile Development
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+
+### Game Development
+![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
